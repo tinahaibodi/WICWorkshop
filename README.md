@@ -2,22 +2,27 @@
 A series of resources for WISC workshop attendants to pursue UX Design careers 🖌🔮
 
 #### Ideation and Stack Rank Testing
-- [powerpoint](#)
-- [extra resources and notes](#)
+- [notes](#)
+- [designs](#)
+- [extra resources and references](#)
 
 #### UML Use Case Mapping
-- [powerpoint](#)
-- [extra resources and notes](#)
+- [notes](#)
+- [designs](#)
+- [extra resources and references](#)
 
 #### Usability Testing
-- [powerpoint](#)
-- [extra resources and notes](#)
+- [notes](#)
+- [designs](#)
+- [extra resources and references](#)
 
 #### Low-Fidelity Prototype
-- [powerpoint](#)
-- [extra resources and notes](#)
+- [notes](#)
+- [designs](#)
+- [extra resources and references](#)
 
 #### High-Fidelity Prototype
-- [powerpoint](#)
-- [extra resources and notes](#)
+- [notes](#)
+- [designs](#)
+- [extra resources and references](#)
 
