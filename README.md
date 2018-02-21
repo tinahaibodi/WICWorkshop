@@ -6,7 +6,7 @@ A series of resources for Women in Computing workshop attendants to pursue UX De
 - [designs](#)
 - [extra resources and references](#)
 
-#### UML Use Case Mapping - Cross-device Use Cases
+#### UML Use Case Mapping - Cross-Device Use Cases
 - [notes](#)
 - [designs](#)
 - [extra resources and references](#)
