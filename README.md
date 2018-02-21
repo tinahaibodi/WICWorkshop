@@ -1,12 +1,14 @@
 # WICWorkshop
 A series of resources for WISC workshop attendants to pursue UX Design careers 🖌🔮
 
-## Stack Rank Testing and Ideation
+Stack Rank Testing and Ideation
 
-## User Research
+User Research
 
-## Usability Testing
+UML Use Case Mapping
+
+Usability Testing
  
-## Low-fidelity prototypes
+Low-fidelity prototypes
 
-## high fidelity prototypes
+High fidelity prototypes
