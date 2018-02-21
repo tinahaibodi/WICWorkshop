@@ -6,12 +6,12 @@ A series of resources for Women in Computing workshop attendants to pursue UX De
 - [designs](#)
 - [extra resources and references](#)
 
-#### UML Use Case Mapping
+#### UML Use Case Mapping - Cross-device Use Cases
 - [notes](#)
 - [designs](#)
 - [extra resources and references](#)
 
-#### Usability Testing
+#### Usability Testing and Analyzing User Behaviour (Using Predictive Analysis)
 - [notes](#)
 - [designs](#)
 - [extra resources and references](#)
