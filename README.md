@@ -26,3 +26,8 @@ A series of resources for Women in Computing workshop attendants to pursue UX De
 - [designs](#)
 - [extra resources and references](#)
 
+#### Other Design Mechanisms: Data Visualization, etc.
+- [notes](#)
+- [designs](#)
+- [extra resources and references](#)
+
