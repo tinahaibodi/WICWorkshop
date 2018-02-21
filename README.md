@@ -11,7 +11,7 @@ A series of resources for Women in Computing workshop attendants to pursue UX De
 - [designs](#)
 - [extra resources and references](#)
 
-#### Usability Testing and Analyzing User Behaviour (Using Predictive Analysis)
+#### Usability Testing and User Behaviour 
 - [notes](#)
 - [designs](#)
 - [extra resources and references](#)
