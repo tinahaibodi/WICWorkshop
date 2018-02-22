@@ -58,24 +58,24 @@ Release
 - mature
 
 ## MYTHS about Product Management:
-PMs are Project Managers
-PMs are in marketing
-You can't become PM right out of college
-PMs just write specs
-PMs just set up meetings
-PMs should build exactly the customer asks for
-PMs set dates
-PMs are the boss
-Ideas are more important than execution
-You can say "That's not my job" - you help where is needed 
-transparency (between teams)
-ratio of PMs to Engineers
-high -- more collaboration
-low -- greater ownership
-product strategy
-bottom up (engineers)
-top down (executives)
-company culture
+- PMs are Project Managers
+- PMs are in marketing
+- You can't become PM right out of college
+- PMs just write specs
+- PMs just set up meetings
+- PMs should build exactly the customer asks for
+- PMs set dates
+- PMs are the boss
+- Ideas are more important than execution
+- You can say "That's not my job" - you help where is needed 
+- transparency (between teams)
+- ratio of PMs to Engineers
+- high -- more collaboration
+- low -- greater ownership
+- product strategy
+- bottom up (engineers)
+- top down (executives)
+- company culture
 
 
 ## Customer Focus:
@@ -174,11 +174,11 @@ company culture
 - well written
 
 # The Cover Letter Template:
-address: "Dear ...,"
-opening paragraph: introduction, what position are you seeking?
-second paragraph: discuss how your background makes you a good fit
-third paragraph: explain why you're excited for this role
-"thank you"
+- address: "Dear ...,"
+- opening paragraph: introduction, what position are you seeking?
+- second paragraph: discuss how your background makes you a good fit
+- third paragraph: explain why you're excited for this role
+- "thank you"
 
 # Things to do before Interview: 
 - Company Research
@@ -206,19 +206,19 @@ third paragraph: explain why you're excited for this role
 - Example Interview
 
 ## Sample Questions: Product Questions About the Product Question
-Type 1: Designing a Product
-Type 2: Improving a Product
-Type 3: Favorite Product Preparation
-Tips and Tricks
-Sample Questions
-Case Questions The Case Question:
-Consultants vs. PMs
-What Interviewers Look For
-Useful Frameworks
-Product Metrics
+- Type 1: Designing a Product
+- Type 2: Improving a Product
+- Type 3: Favorite Product Preparation
+- Tips and Tricks
+- Sample Questions
+- Case Questions The Case Question:
+- Consultants vs. PMs
+- What Interviewers Look For
+- Useful Frameworks
+- Product Metrics
 
 # Books to read for Product Management: 
-Ian McAllister: Top 1% PMs vs. Top 10% PMs
-Adam Nash: Be a Great Product Leader
-Sachin Rekhi: The Inputs to a Great Product Roadmap
-Ken Norton: How to Hire a Product Manager Amazon Leadership Principles
+- Ian McAllister: Top 1% PMs vs. Top 10% PMs
+- Adam Nash: Be a Great Product Leader
+- Sachin Rekhi: The Inputs to a Great Product Roadmap
+- Ken Norton: How to Hire a Product Manager Amazon Leadership Principles
