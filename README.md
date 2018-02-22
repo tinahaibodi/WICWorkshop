@@ -1,5 +1,5 @@
 # WICWorkshop
-A series of resources for Women in Computing workshop attendants to pursue UX Design careers 🖌🔮
+A series of resources for Women in Computing workshop attendants to pursue UX, Design, or Product careers 🖌🔮
 
 #### Ideation and Stack Rank Testing
 - [notes](#)
