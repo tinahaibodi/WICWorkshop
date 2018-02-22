@@ -31,3 +31,7 @@ A series of resources for Women in Computing workshop attendants to pursue UX De
 - [designs](#)
 - [extra resources and references](#)
 
+#### Product Management
+- [notes](#)
+- [extra resources and references](#)
+
