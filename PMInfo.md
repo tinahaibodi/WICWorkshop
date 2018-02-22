@@ -1,6 +1,3 @@
-## The Product Manager Role
-(Chapter 2)
-
 # A Product Manager (PM):
 Defined as a mini CEO but does not have direct authority
 Lead teams without authority
@@ -128,21 +125,21 @@ company culture
 *The 15 Second Rule: Resumes should be optimized for 15-second skim.*
 
 # Resume Rules:
-Shorter is Better
-stick to the highlights
-only use 1 page but maybe a little longer for > 10 years experience
-Bullets (Not Blobs)
-< 3 lines long
-no more than 50% of bullets >= 2 lines
-Accomplishments (Not Responsibilities)
-"You were a success because ... "
-focus on impact
-quantify accomplishment
-Use a Good Template
-don't be fancy
-use a good template with adequate (but not wasted) whitespace
-Don't Skip the Best Stuff
-what did you not include?
+- Shorter is Better
+- stick to the highlights
+- only use 1 page but maybe a little longer for > 10 years experience
+- Bullets (Not Blobs)
+- < 3 lines long
+- no more than 50% of bullets >= 2 lines
+- Accomplishments (Not Responsibilities)
+- "You were a success because ... "
+- focus on impact
+- quantify accomplishment
+- Use a Good Template
+- don't be fancy
+- use a good template with adequate (but not wasted) whitespace
+- Don't Skip the Best Stuff
+- what did you not include?
 
 # Attributes of a Good PM Resume:
 - is itself a product
@@ -184,34 +181,31 @@ third paragraph: explain why you're excited for this role
 "thank you"
 
 # Things to do before Interview: 
-Company Research
-The Product
-The Strategy
-The Culture
-The Role
-The Questions
-Define Yourself
-"Tell Me About Yourself" (The Pitch)
-"Why do you want to work here?"
-"Why should we hire you?"
-"Why are you leaving your current job?"
-"What do you like to do in your spare time?"
-"Where do you see yourself in five years?"
-"What are your strengths and weaknesses?"
-Sample Strengths
-Sample Weaknesses
-Behavioral Questions
-Why These Questions Are Asked
-Preparation
-Follow-Up Questions
-Types of Behavioral Questions
-Estimation Questions
-Approach
-Numbers Cheat Sheet
-Tips and Tricks
-Example Interview
-Sample Questions
-Product Questions About the Product Question
+- Company Research
+- Know The Product
+- The Strategy
+- The Culture
+- The Role
+- Define Yourself
+- "Tell Me About Yourself" (The Pitch)
+- "Why do you want to work here?"
+- "Why should we hire you?"
+- "Why are you leaving your current job?"
+- "What do you like to do in your spare time?"
+- "Where do you see yourself in five years?"
+- "What are your strengths and weaknesses?"
+- Sample Strengths
+- Sample Weaknesses
+- Behavioral Questions
+- Follow-Up Questions
+- Types of Behavioral Questions
+- Estimation Questions
+- Approach
+- Numbers Cheat Sheet
+- Tips and Tricks
+- Example Interview
+
+## Sample Questions: Product Questions About the Product Question
 Type 1: Designing a Product
 Type 2: Improving a Product
 Type 3: Favorite Product Preparation
