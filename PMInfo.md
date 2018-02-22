@@ -7,10 +7,10 @@ Main liaison between all other roles
 
 
 # Product Life Cycle:
-1. research & planning
-2. design
-3. implement & test
-4. release
+Research & planning
+Design
+Implement & test
+Release
 
 1. Research & Planning:
 - determine what to build next
